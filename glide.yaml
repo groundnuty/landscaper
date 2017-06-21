@@ -19,7 +19,7 @@ import:
   - ptypes/any
   - ptypes/timestamp
 - package: k8s.io/helm
-  version: ~2.4.0
+  version: ~2.5.0
   subpackages:
   - pkg/chartutil
   - pkg/helm
